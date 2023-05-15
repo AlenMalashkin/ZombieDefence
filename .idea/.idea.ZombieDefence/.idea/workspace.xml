@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d71415b2-d78f-46f6-be8c-c2549544e501" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/UI/Money/MoneyCountDispalyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Installers/EnemyInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/LookAtCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/SFX/Sound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Enemies/TriggerObserver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Enemies/EnemyComponents/EnemyStatSetuper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Enemies/StateMachine/States/State.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/AfterWave/CurrentAfterWaveState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Weapon/WeaponUpgrades.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Enemies/StateMachine/StateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Utils/PoolMono/PoolMono.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/Shop/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Weapon/Projectile/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/AfterWave/AfterWaveSceneSetuper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Infrastructure/Bootstrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/Settings/VolumeSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/Shop/Reward.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/ChangeSceneButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/Shop/ItemType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Enemies/StateMachine/States/EnemyDie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Enemies/EnemyFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Abstract/IDamagable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/Healthbar/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UI/Shop/ShopInitializer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Utils/PoolMono/PoolMono.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/TriggerObserver.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/LookAtCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Healthbar/Healthbar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Abstract/IDamagable.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Healthbar/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/WaveTimer/WaveTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Meta/Bank/Bank.cs" />
+        <option value="$PROJECT_DIR$/Assets/Meta/Installers/InfrastructureInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/AfterWave/AfterWaveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/AfterWave/CurrentAfterWaveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/WaveTimer/WaveTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/ChangeSceneButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Shop/Installers/ShopInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Shop/Shop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Weapon/WeaponHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Shop/ItemData.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Shop/ShopInitializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Shop/ItemType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Weapon/WeaponUpgrades.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Installers/WeaponInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Shop/ItemData.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Money/MoneyCountDispalyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Bank/Bank.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Installers/EnemyInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/EnemyFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/EnemyComponents/EnemyAnimator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/StateMachine/States/IState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/StateMachine/States/State.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/EnemyComponents/EnemyMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/EnemyComponents/EnemyAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/StateMachine/States/EnemyMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/StateMachine/StateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/EnemyComponents/EnemyHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Weapon/Projectile/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Shop/Reward.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Shop/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/AfterWave/AfterWaveSceneSetuper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/SFX/SoundPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Settings/VolumeSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Installers/InfrastructureInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/Bootstrap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Weapon/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/StateMachine/States/EnemyAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/StateMachine/States/EnemyDie.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemies/EnemyComponents/EnemyStatSetuper.cs" />
+        <option value="$PROJECT_DIR$/Assets/UI/Pause/Pause.cs" />
+        <option value="$PROJECT_DIR$/Assets/Infrastructure/SFX/Sound.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PGxyydzv2pWEpWonfrn3Nz7NVR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d71415b2-d78f-46f6-be8c-c2549544e501" name="Default Changelist" comment="" />
+      <created>1683097517565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683097517565</updated>
+      <workItem from="1683097520916" duration="1638000" />
+      <workItem from="1683120573076" duration="3102000" />
+      <workItem from="1683223213015" duration="3793000" />
+      <workItem from="1683268944587" duration="3261000" />
+      <workItem from="1683272640886" duration="4622000" />
+      <workItem from="1683293543676" duration="5747000" />
+      <workItem from="1683356933425" duration="11617000" />
+      <workItem from="1683458055197" duration="7130000" />
+      <workItem from="1683477241655" duration="1259000" />
+      <workItem from="1683484082527" duration="5529000" />
+      <workItem from="1683538900488" duration="4659000" />
+      <workItem from="1683543787646" duration="3420000" />
+      <workItem from="1683654087658" duration="2863000" />
+      <workItem from="1683743955357" duration="4794000" />
+      <workItem from="1683786557306" duration="3494000" />
+      <workItem from="1683800941770" duration="5982000" />
+      <workItem from="1683879080941" duration="1910000" />
+      <workItem from="1683891567714" duration="6253000" />
+      <workItem from="1683959308538" duration="2999000" />
+      <workItem from="1683981195971" duration="1809000" />
+      <workItem from="1683997801262" duration="2085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1683804165773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="236" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1683804165773" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1683463929196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1683463929196" />
+  </component>
+</project>
